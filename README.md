@@ -1,5 +1,3 @@
-# Toonspace-changelog
-
 ### v0.1.0
 
 # 📦 Toonspace Changelog
